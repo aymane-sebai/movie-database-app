@@ -1,1 +1,38 @@
+{
+  "name": "movie-database",
+  "version": "1.0.0",
+  "description": "A movie database app using React and OMDB API",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.11.0",
+    "axios": "^1.4.0"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0",
+    "tailwindcss": "^3.3.0",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
 
