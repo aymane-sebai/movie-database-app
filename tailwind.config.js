@@ -7,15 +7,14 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: "#1e293b",
-        secondary: "#64748b",
-        accent: "#fbbf24",
+        primary: '#1e293b',
+        secondary: '#64748b',
+        accent: '#fbbf24'
       },
       fontFamily: {
-        sans: ["Inter", "sans-serif"],
-      },
+        sans: ['Inter', 'sans-serif']
+      }
     },
   },
   plugins: [],
 };
-
