@@ -1,38 +1,26 @@
 {
-  "name": "movie-database",
+  "name": "asm-movie-dashboard",
   "version": "1.0.0",
-  "description": "A movie database app using React and OMDB API",
+  "description": "A movie dashboard using React, Tailwind CSS and the OMDB API",
   "main": "src/index.js",
   "scripts": {
-    "start": "vite",
+    "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
+    "axios": "^1.4.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.11.0",
-    "axios": "^1.4.0"
+    "react-router-dom": "^6.14.1"
   },
   "devDependencies": {
-    "vite": "^4.0.0",
-    "tailwindcss": "^3.3.0",
-    "autoprefixer": "^10.4.0",
-    "postcss": "^8.4.0"
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.2",
+    "vite": "^4.4.9"
   },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "author": "Your Name",
+  "keywords": [],
+  "author": "Aymane Sebai",
   "license": "MIT"
 }
-
