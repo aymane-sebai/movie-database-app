@@ -32,5 +32,6 @@ npm run dev
 - Replace `5215185e` in the code with your actual key.
 
 ## 🎨 UI Preview
-![Screenshot - Home Page] https://github.com/aymane-sebai/movie-database-app/blob/aad6c30d5d81e438e0d84b168270c4161b63d6c1/Screenshot%20Home.png
+![Screenshot - Home Page](https://github.com/aymane-sebai/movie-database-app/blob/246b12cacdc03663382bbccc125655bdb680d95c/Screenshot%20Home.png)
+
 
