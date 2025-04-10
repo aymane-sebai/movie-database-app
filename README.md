@@ -33,5 +33,8 @@ npm run dev
 
 ## 🎨 UI Preview
 ![Screenshot - Home Page](https://github.com/aymane-sebai/movie-database-app/blob/246b12cacdc03663382bbccc125655bdb680d95c/Screenshot%20Home.png)
+![Screenshot - Search Results](https://github.com/aymane-sebai/movie-database-app/blob/698073f9a08da8a4f9178f17661a16d703040ff3/Screenshot%20Search%20Results.png)
+![Screenshot - About me](https://github.com/aymane-sebai/movie-database-app/blob/698073f9a08da8a4f9178f17661a16d703040ff3/Screenshot%20About%20me.png)
+
 
 
