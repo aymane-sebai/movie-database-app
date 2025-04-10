@@ -31,20 +31,6 @@ npm run dev
 - Visit [OMDB API](https://www.omdbapi.com/apikey.aspx) to get your free API key.
 - Replace `5215185e` in the code with your actual key.
 
-## 📁 Folder Structure
-```
-src/
-├── components/
-│   ├── Footer.js
-│   ├── MovieCard.js
-│   ├── Navbar.js
-│   └── SearchBar.js
-├── pages/
-│   ├── Home.js
-│   └── MovieDetails.js
-├── App.js
-├── index.css
-└── index.js
-```
+## 🎨 UI Preview
+![Screenshot - Home Page] https://github.com/aymane-sebai/movie-database-app/blob/aad6c30d5d81e438e0d84b168270c4161b63d6c1/Screenshot%20Home.png
 
----
