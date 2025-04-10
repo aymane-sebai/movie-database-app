@@ -1,25 +1,21 @@
-import React, { useState } from "react";
-
-const SearchBar = ({ onSearch }) => {
-  const [query, setQuery] = useState("");
-
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    if (query.trim()) onSearch(query);
-  };
-
+function SearchBar({ query, setQuery, onSearch }) {
   return (
-    <form className="flex justify-center gap-3 p-4" onSubmit={handleSubmit}>
+    <div className="flex flex-col items-center mt-6">
       <input
         type="text"
-        className="px-4 py-2 text-black rounded-md"
-        placeholder="Search movies..."
+        placeholder="Search for movies"
         value={query}
         onChange={(e) => setQuery(e.target.value)}
+        className="w-full max-w-md p-2 rounded text-black"
       />
-      <button className="px-4 py-2 bg-blue-500 rounded-md">Search</button>
-    </form>
+      <button
+        onClick={onSearch}
+        className="mt-2 bg-blue-500 px-4 py-2 rounded hover:bg-blue-600"
+      >
+        SEARCH
+      </button>
+    </div>
   );
-};
+}
 
 export default SearchBar;
