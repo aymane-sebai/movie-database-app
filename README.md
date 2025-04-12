@@ -36,8 +36,6 @@ npm run dev
 
 ## 📸 UI Preview
 ![Screenshot - Home Page](https://raw.githubusercontent.com/aymane-sebai/movie-database-app/main/Screenshot%20Home.png)
-![Screenshot - Search Results](https://raw.githubusercontent.com/aymane-sebai/movie-database-app/main/Screenshot%20Search%20Results.png)
-![Screenshot - About me](https://raw.githubusercontent.com/aymane-sebai/movie-database-app/main/Screenshot%20About%20me.png)
 
 ## ♿ Accessibility & Best Practices
 - All images include `alt` attributes.
